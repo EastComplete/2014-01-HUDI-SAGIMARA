@@ -1,3 +1,5 @@
+Docs Link : https://docs.google.com/document/d/1FI6tXl7v10csU_ut0wIQsEqX5SquIpYEMFBq2MCg2tg/edit?usp=sharing
+
 2014-01-HUDI-SAGIMARA
 =====================
 ##Sprint 0 (due date : 31 Mar 2014)
