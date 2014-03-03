@@ -1,4 +1,4 @@
-Docs Link : https://docs.google.com/document/d/1FI6tXl7v10csU_ut0wIQsEqX5SquIpYEMFBq2MCg2tg/edit?usp=sharing <br>
+[https://docs.google.com/document/d/1FI6tXl7v10csU_ut0wIQsEqX5SquIpYEMFBq2MCg2tg/edit?usp=sharing 팀문서] <br>
 Class Scheduel : https://docs.google.com/spreadsheet/ccc?key=0AoxIypuVqGVVdF9SYXFubzFhZmxvMnJEWVVsZHVuRkE&usp=drive_web#gid=0
 
 2014-01-HUDI-SAGIMARA
