@@ -1,4 +1,4 @@
-[팀문서](https://docs.google.com/document/d/1FI6tXl7v10csU_ut0wIQsEqX5SquIpYEMFBq2MCg2tg/edit?usp=sharing) | [수업스케줄 문서](https://docs.google.com/spreadsheet/ccc?key=0AoxIypuVqGVVdF9SYXFubzFhZmxvMnJEWVVsZHVuRkE&usp=drive_web#gid=0)
+[팀문서](https://docs.google.com/document/d/1FI6tXl7v10csU_ut0wIQsEqX5SquIpYEMFBq2MCg2tg/edit?usp=sharing) | [수업스케줄 문서](https://docs.google.com/spreadsheet/ccc?key=0AoxIypuVqGVVdF9SYXFubzFhZmxvMnJEWVVsZHVuRkE&usp=drive_web#gid=0) | [깃문법](http://guides.github.com/overviews/mastering-markdown/)
 
 2014-01-HUDI-SAGIMARA
 =====================
@@ -10,7 +10,7 @@
 ### :ok: 지도 교수 배정
  - 김정 / 윤지수 / 조용호
 
-### :ok: 지도 교수 통해 github repository 추가, 팀원 추가 :ok:
+### :ok: 지도 교수 통해 github repository 추가, 팀원 추가
  - https://github.com/NHNNEXT/2014-01-HUDI-SAGIMARA
 
 ### :repeat: 팀 원칙 만들기(소통, 협업, 신뢰를 어떻게 형성할 것인가?)
@@ -20,7 +20,7 @@
  - 이(병우)까이꺼
  - 페어로 인수인계! (누가 머하고 누가 머하고 없이, 다같이 경험!)
 
-### 팀의 역할 및 책임 정의
+### :repeat: 팀의 역할 및 책임 정의
  - 최선진 : 맏형
  - 이병우 : 둘째
  - 양지웅 : 셋째
@@ -42,8 +42,8 @@
 ### 프로젝트 요구사항 분석 
  - 강의 계획서 읽어 보기
 
-### 기능 목록 추출
- - 기획서 작성 {1} >사용 기능 목록 나열
+### :1: 기능 목록 추출
+ - 기획서 작성 >사용 기능 목록 나열
 
 ### 우선순위 및 일정산정
 
