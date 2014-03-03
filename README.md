@@ -5,7 +5,7 @@
 ##Sprint 0 (due date : 31 Mar 2014)
 						 						
 ### :ok: 팀원구성
- - 조성환 / 이병우 / 최선진 / 양지웅						 				
+ - 조성환 @sunghwancho / 이병우 @comelf / 최선진 @astomusic / 양지웅						 				
 
 ### :ok: 지도 교수 배정
  - 김정 / 윤지수 / 조용호
