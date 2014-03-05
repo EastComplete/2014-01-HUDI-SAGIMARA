@@ -1,4 +1,6 @@
-[팀문서](https://docs.google.com/document/d/1FI6tXl7v10csU_ut0wIQsEqX5SquIpYEMFBq2MCg2tg/edit?usp=sharing) | [수업스케줄 문서](https://docs.google.com/spreadsheet/ccc?key=0AoxIypuVqGVVdF9SYXFubzFhZmxvMnJEWVVsZHVuRkE&usp=drive_web#gid=0) | [깃문법](http://guides.github.com/overviews/mastering-markdown/)
+[팀문서](https://docs.google.com/document/d/1FI6tXl7v10csU_ut0wIQsEqX5SquIpYEMFBq2MCg2tg/edit?usp=sharing) | [팀폴더](https://drive.google.com/?authuser=0#folders/0B0QWiqWi3LLdTkNLc09YUTR0MnM) |
+[수업스케줄 문서](https://docs.google.com/spreadsheet/ccc?key=0AoxIypuVqGVVdF9SYXFubzFhZmxvMnJEWVVsZHVuRkE&usp=drive_web#gid=0) |
+[깃문법](http://guides.github.com/overviews/mastering-markdown/)
 
 2014-01-HUDI-SAGIMARA
 =====================
