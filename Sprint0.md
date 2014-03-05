@@ -1,4 +1,6 @@
-[팀문서](https://docs.google.com/document/d/1FI6tXl7v10csU_ut0wIQsEqX5SquIpYEMFBq2MCg2tg/edit?usp=sharing) | [수업스케줄 문서](https://docs.google.com/spreadsheet/ccc?key=0AoxIypuVqGVVdF9SYXFubzFhZmxvMnJEWVVsZHVuRkE&usp=drive_web#gid=0) | [깃문법](http://guides.github.com/overviews/mastering-markdown/)
+[팀문서](https://docs.google.com/document/d/1FI6tXl7v10csU_ut0wIQsEqX5SquIpYEMFBq2MCg2tg/edit?usp=sharing) | [팀폴더](https://drive.google.com/?authuser=0#folders/0B0QWiqWi3LLdTkNLc09YUTR0MnM) |
+[수업스케줄 문서](https://docs.google.com/spreadsheet/ccc?key=0AoxIypuVqGVVdF9SYXFubzFhZmxvMnJEWVVsZHVuRkE&usp=drive_web#gid=0) |
+[깃문법](http://guides.github.com/overviews/mastering-markdown/)
 
 2014-01-HUDI-SAGIMARA
 =====================
@@ -19,6 +21,9 @@
  - 양(지웅)껏
  - 이(병우)까이꺼
  - 페어로 인수인계! (누가 머하고 누가 머하고 없이, 다같이 경험!)
+ - sprint는 각 단계별 to do list를 git 문서로 관리
+ - 단계별 구체적 공유 사항 및 미팅 결과는 google drive로 관리(상단 링크 참조)
+ - 단계내에서 현재 집중 해야할 사항은 git의 이슈로 관리
 
 ### :repeat: 팀의 역할 및 책임 정의
  - 최선진 : 맏형
