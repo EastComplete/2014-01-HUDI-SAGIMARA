@@ -1,4 +1,4 @@
-[팀문서](https://docs.google.com/document/d/1FI6tXl7v10csU_ut0wIQsEqX5SquIpYEMFBq2MCg2tg/edit?usp=sharing) | 
+[트렐로](https://trello.com/b/07450iel/2014-hdp-sagimara) | 
 [팀폴더](https://drive.google.com/?authuser=0#folders/0B0QWiqWi3LLdTkNLc09YUTR0MnM) |
 [서버이력](https://github.com/NHNNEXT/2014-01-HUDI-SAGIMARA/wiki/Server-Status) |
 [수업스케줄 문서](https://docs.google.com/spreadsheet/ccc?key=0AoxIypuVqGVVdF9SYXFubzFhZmxvMnJEWVVsZHVuRkE&usp=drive_web#gid=0) |
