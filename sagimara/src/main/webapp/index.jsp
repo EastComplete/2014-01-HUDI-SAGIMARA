@@ -7,6 +7,6 @@
 <title>Sagimara</title>
 </head>
 <body>
-	<h1>hello, Sagimara</h1>
+	<h1>hello, Sagimara~</h1>
 </body>
 </html>
