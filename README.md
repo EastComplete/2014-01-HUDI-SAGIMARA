@@ -12,7 +12,7 @@
  - 조성환(2) / 이병우 / 최선진 / 양지웅						 				
 
 ### 지도 교수 배정
- - 김정 / 윤지수 / 조용호
+ - 손영수 / 김정 / 윤지수 / 조영호
 
 ### 지도 교수 통해 github repository 추가, 팀원 추가
  - https://github.com/NHNNEXT/2014-01-HUDI-SAGIMARA
